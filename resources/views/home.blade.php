@@ -39,8 +39,8 @@
 </div>  
 <!-- End Slider Design Section -->
 
-<div class="space-top"></div>
-
+<div class="space-top"></div>  
+  
 <!-- About section -->
 <section class="about-us" id="start">
     <div class="container">
