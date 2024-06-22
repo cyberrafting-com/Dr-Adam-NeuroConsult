@@ -46,10 +46,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-12 mt-lg-0 mt-md-0 mt-0">        
-                <div class="about-text-box"> 
-                <h1>about doctor</h1> 
-                    <h1>about doctor</h1>
-                    <h1>about doctor</h1>      
+                <div class="about-text-box">        
                     <h1>about doctor</h1>
                     <h2>Dr. Adam Kamrudeen</h2>
                     <div class="mb-4">
